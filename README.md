@@ -23,6 +23,7 @@ RegisterNumber: 212224040205
 */
 ```
 ```pyimport numpy as np
+import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 def linear_regression(X1,y,learning_rate = 0.1, num_iters = 1000):
